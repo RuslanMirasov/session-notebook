@@ -43,5 +43,6 @@
 | `git switch -c <branch_name>` | Create a new branch and switch to it |
 | `git switch <branch_name>`    | Switch branches                      |
 | `git branch`                  | View existing branches               |
+| `git log --oneline`           | View commits and branches            |
 | `git branch -d <branch_name>` | Delete a branch                      |
 | `git branch -D <branch_name>` | Force delete a branch                |
