@@ -11,6 +11,7 @@
 | `mkdir <directory>`                    | Create a directory                                  |
 | `rm <file>`                            | Remove a file                                       |
 | `rmdir <directory>`                    | Remove an empty directory                           |
+| `rm -rf <directory>`                   | Remove an not empty directory                       |
 | `cat <filename>`                       | View file contents                                  |
 | `mv <oldName> <newName>`               | Rename or move a file                               |
 | `cp <folder/example.txt> <folder>`     | Copy a file                                         |
